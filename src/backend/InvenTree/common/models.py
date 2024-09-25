@@ -2502,7 +2502,7 @@ class InvenTreeUserSetting(BaseInvenTreeSetting):
         },
         'STICKY_HEADER': {
             'name': _('Fixed Navbar'),
-            'description': _('The navbar position is fixed to the top of the screen'),
+            'description': _('now it works'),
             'default': False,
             'validator': bool,
         },
